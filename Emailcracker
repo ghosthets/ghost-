@@ -1,4 +1,24 @@
-#!binbash 
+#!binbash
+ 
+ _______           _______  _______ _________  
+
+(  ____ \|\     /|(  ___  )(  ____ \\__   __/  
+
+| (    \/| )   ( || (   ) || (    \/   ) (     
+
+| |      | (___) || |   | || (_____    | |     
+
+| | ____ |  ___  || |   | |(_____  )   | |     
+
+| | \_  )| (   ) || |   | |      ) |   | |     
+
+| (___) || )   ( || (___) |/\____) |   | |     
+
+(_______)|/     \|(_______)\_______)   )_(     
+
+                                               
+
+
 echo Simple Email Cracking Script in bash 
 echo Written By: Ghostcyberbit
 echo NOTE: Make sure you have wordlists! 
